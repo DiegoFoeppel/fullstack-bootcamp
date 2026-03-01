@@ -1,0 +1,22 @@
+.select-quiz {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  max-width: 25%;
+  height: 300px;
+  margin: 15% auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding-top: 10px;
+}
+
+.link-item {
+  width: 100%;
+  border-radius: 100px;
+  background-color: aqua;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+}
